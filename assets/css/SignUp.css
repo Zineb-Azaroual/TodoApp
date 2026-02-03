@@ -1,6 +1,7 @@
 #main {
   height: 160vh;
   /*background: url("../../assets/img/login.webp");*/
+  background-image: url("C:/Users/ThinkPad T460/OneDrive/Desktop/untitled1/img1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9,7 +10,7 @@
 
 #info {
   width: 90%;
-  height: 400px;
+  height: 600px;
   border-radius: 5px;
   color: var(--bs-white);
   background-color: rgba(0,0,0, 0.35);

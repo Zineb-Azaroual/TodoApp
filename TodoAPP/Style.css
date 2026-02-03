@@ -1,0 +1,25 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.tache{
+    background-color: papayawhip;
+
+}
+.div0{
+    background: #5c636a;
+
+
+}
+.div1 {
+    background-color: #f5f5f5;
+    padding: 8px;
+    border-radius: 8px;
+    margin-top: 5px;
+    text-align: justify-all;
+}
+
